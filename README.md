@@ -1,4 +1,26 @@
-## Hi there 👋
+### Haine (hainet50b) 💳️
+
+I've been working at a Payment Service Provider (PSP) in Japan 🇯🇵 for over 10 years, focusing on:
+
+- Observability
+- Resiliency
+- Performance
+
+I'm also interested in engineering education, and I write techinical articles about observability, monitoring, testing, and related topics.
+
+- YouTube (under construction)
+- Blog (blog.programacho.com) (currently rebuilding)
+- [Tech bits (pages.programacho.com)](https://pages.programacho.com/)
+
+### My beloved tech stack 🌿
+
+- Elasticsearch
+- Spring Boot
+- Java
+
+### Contact ✉️
+
+- Email: contact@programacho.com
 
 <!--
 **hainet50b/hainet50b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
