@@ -10,12 +10,12 @@ I'm also interested in engineering education, and I write techinical articles ab
 
 - YouTube (under construction)
 - Blog (blog.programacho.com) (currently rebuilding)
-- [Tech bits (pages.programacho.com)](https://pages.programacho.com/)
+- [Tech bits (pages.programacho.com) (Japanese)](https://pages.programacho.com/)
 
 ### My beloved tech stack 🌿
 
 - Elasticsearch
-- Spring Boot
+- Spring Boot (JSUG (Japan Spring User Group) staff member 🌿)
 - Java
 
 ### Contact ✉️
