@@ -15,7 +15,8 @@ I'm also interested in engineering education, and I write techinical articles ab
 ### My beloved tech stack 🌿
 
 - Elasticsearch
-- Spring Boot (JSUG (Japan Spring User Group) staff member 🌿)
+- Spring Boot
+  - JSUG (Japan Spring User Group) staff member
 - Java
 
 ### Contact ✉️
