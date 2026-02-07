@@ -8,9 +8,9 @@ I've been working at a Payment Service Provider (PSP) in Japan 🇯🇵 for over
 
 I'm also interested in engineering education, and I write techinical articles about observability, monitoring, testing, and related topics.
 
-- YouTube (Japanese) (under construction)
-- Blog (blog.programacho.com) (English) (closed. currently rebuilding)
-- [Tech bits (pages.programacho.com) (Japanese)](https://pages.programacho.com/)
+- YouTube (Japanese, English substitles) - coming soon
+- [Blog (programacho.com) (English)](https://programacho.com/blog)
+- ~[Tech bits (pages.programacho.com) (Japanese)](https://pages.programacho.com/)~
 
 ### My beloved tech stack 🌿
 
