@@ -6,21 +6,22 @@ I've been working at a Payment Service Provider (PSP) in Japan 🇯🇵 for over
 - Resiliency
 - Performance
 
-I'm also interested in engineering education, and I write techinical articles about observability, monitoring, testing, and related topics.
+I'm also interested in engineering education.
 
-- YouTube (Japanese, English substitles) - coming soon
+I write about observability, resiliency, testing, system specifications, AI-assisted software development, and related topics:
+
+- YouTube (Japanese, English subtitles) — coming soon
 - [Blog (programacho.com) (English)](https://programacho.com/blog)
 - ~[Tech bits (pages.programacho.com) (Japanese)](https://pages.programacho.com/)~
 
-### My beloved tech stack 🌿
+### Tech stack 🌿
 
 - Elasticsearch
 - Spring Boot
-  - JSUG (Japan Spring User Group) staff member
 - Java
-- Neovim 🤝 HHKB
+- Neovim, Rust, HHKB, etc.
 
-### Contact ✉️
+### Contact 📫
 
 - Email: contact@programacho.com
 
