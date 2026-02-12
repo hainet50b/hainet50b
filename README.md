@@ -12,7 +12,7 @@ I write about observability, resiliency, testing, system specifications, AI-assi
 
 - YouTube (Japanese, English subtitles) — coming soon
 - [Blog (programacho.com) (English)](https://programacho.com/blog)
-- ~[Tech bits (pages.programacho.com) (Japanese)](https://pages.programacho.com/)~
+- ~[Pages (pages.programacho.com) (Japanese)](https://pages.programacho.com/)~ — sunsetting, content moving to blog
 
 ### Tech stack 🌿
 
