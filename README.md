@@ -19,7 +19,7 @@ I write about observability, resiliency, testing, system specifications, AI-assi
 - Elasticsearch
 - Spring Boot
 - Java
-- Neovim, Rust, HHKB, etc.
+- Neovim, Rust, etc.
 
 ### Contact 📫
 
