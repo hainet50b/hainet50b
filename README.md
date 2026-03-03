@@ -6,7 +6,7 @@ I've been working at a Payment Service Provider (PSP) in Japan 🇯🇵 for over
 - Resiliency
 - Performance
 
-I'm also interested in engineering education.
+Beyond hands-on engineering, I founded and led an engineering team dedicated to mentoring and growing junior engineers, serving as Engineering Manager for two years.
 
 I write about observability, resiliency, testing, system specifications, AI-assisted software development, and related topics:
 
@@ -17,8 +17,8 @@ I write about observability, resiliency, testing, system specifications, AI-assi
 ### Tech stack 🌿
 
 - Elasticsearch
-- Spring Boot
-- Java
+- Spring Boot, Java
+- Claude
 - Neovim, Rust, etc.
 
 ### Contact 📫
