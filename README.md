@@ -1,14 +1,14 @@
 ### 💳️ Haine (hainet50b)
 
-I've been working at a Payment Service Provider (PSP) in Japan 🇯🇵 for over 10 years in mission-critical payment systems. Beyond hands-on engineering, I founded and led an engineering team dedicated to mentoring and growing junior engineers, serving as Engineering Manager for two years.
+I've been working at a Payment Service Provider (PSP) in Japan 🇯🇵 as a software engineer for over 10 years. Beyond hands-on engineering, I founded and led an engineering team dedicated to mentoring and growing junior engineers, serving as Engineering Manager for two years.
 
-I'm now dedicated full-time to researching AI-assisted development at the same PSP, aiming to build payment systems with AI that once required a full team.
+I'm now dedicated full-time to researching AI-assisted development at the same PSP, aiming to build mission-critical payment systems with AI that once required a full team.
 
 I write about observability, resiliency, AI-assisted development, and related topics:
 
-- YouTube (Japanese, English subtitles) — coming soon
+- YouTube — coming soon
 - [Blog (programacho.com) (English)](https://programacho.com/blog)
-- ~[Pages (pages.programacho.com) (Japanese)](https://pages.programacho.com/)~ — sunsetting, content moving to blog
+- ~[Pages (pages.programacho.com) (Japanese)](https://pages.programacho.com/)~ — sunsetting
 
 ### 🌿 Tech stack
 
