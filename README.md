@@ -2,9 +2,12 @@
 
 I've been working at a Payment Service Provider (PSP) in Japan 🇯🇵 as a software engineer for over 10 years. Beyond hands-on engineering, I founded and led an engineering team dedicated to mentoring and growing junior engineers, serving as Engineering Manager for two years.
 
-I'm now dedicated full-time to researching AI-assisted development at the same PSP, aiming to build mission-critical payment systems with AI that once required a full team.
+I'm now dedicated full-time to researching AI-driven development at the same PSP — pursuing two frontiers:
 
-I write about observability, resiliency, AI-assisted development, and related topics:
+- Reducing the cost of building payment systems with AI that once required a full team.
+- Exploring LLM-native payment systems where the model makes the judgement.
+ 
+I write about observability, resiliency, AI-driven development, and related topics:
 
 - YouTube — coming soon
 - [Blog (programacho.com) (English)](https://programacho.com/blog)
