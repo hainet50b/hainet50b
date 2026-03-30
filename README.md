@@ -2,10 +2,10 @@
 
 I've been working at a Payment Service Provider (PSP) in Japan 🇯🇵 as a software engineer for over 10 years. Beyond hands-on engineering, I founded and led an engineering team dedicated to mentoring and growing junior engineers, serving as Engineering Manager for two years.
 
-I'm now dedicated full-time to researching AI-driven development at the same PSP — pursuing two frontiers:
+I'm now a solo researcher dedicated full-time to AI-driven development at the same PSP — pursuing two frontiers:
 
-- Reducing the cost of building payment systems with AI that once required a full team.
-- Exploring LLM-native payment systems where the model makes the judgement.
+- Replacing what once took a full team with AI-assisted workflows to halve the cost of building payment systems.
+- Exploring LLM-native payment architectures where the model itself makes the judgment call.
  
 I write about observability, resiliency, AI-driven development, and related topics:
 
