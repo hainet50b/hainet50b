@@ -18,7 +18,7 @@ I write about observability, resiliency, AI-driven development, and related topi
 - Elasticsearch
 - Spring Boot, Java
 - Claude
-- Neovim, Rust
+- Rust
 
 ### 📫 Contact
 
