@@ -10,7 +10,7 @@ I'm now a solo researcher dedicated full-time to AI-driven development at the sa
 I write about observability, resiliency, AI-driven development, and related topics:
 
 - [Blog (programacho.com) (English)](https://programacho.com/blog)
-- ~[Pages (pages.programacho.com) (Japanese)](https://pages.programacho.com/)~ — sunsetting
+- [Talks & Interviews (Japanese)](https://pages.programacho.com/hainet50b/past-talks)
 
 ### 🌿 Tech stack
 
