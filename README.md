@@ -15,9 +15,9 @@ I write about observability, resiliency, AI-driven development, and related topi
 ### 🌿 Tech stack
 
 - Elasticsearch
-- Spring Boot, Java
-- Claude
-- Rust
+- OpenTelemetry
+- Claude Code, Codex CLI
+- Spring Boot, Java, Rust
 
 ### 📫 Contact
 
