@@ -16,7 +16,7 @@ I write about observability, resiliency, AI-driven development, and related topi
 
 - Elasticsearch
 - OpenTelemetry
-- Claude Code, Codex CLI
+- Agents (Claude Code, Codex CLI)
 - Spring Boot, Java, Rust
 
 ### 📫 Contact
