@@ -7,7 +7,7 @@ I'm now a solo researcher dedicated full-time to AI-driven development at the sa
 - Replacing what once took a full team with AI-assisted workflows to halve the cost of building payment systems.
 - Exploring LLM-native payment architectures where the model itself makes the judgment call.
  
-I write about observability, resiliency, AI-driven development, and related topics:
+I write about observability, audit, AI-driven development, and related topics:
 
 - [Blog (programacho.com) (English)](https://programacho.com/blog)
 - [Talks & Interviews (Japanese)](https://pages.programacho.com/hainet50b/past-talks)
