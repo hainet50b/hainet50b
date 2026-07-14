@@ -12,7 +12,6 @@ I write about observability, audit, AI-driven development, and related topics:
 ### 🌿 Tech stack
 
 - Elasticsearch
-- OpenTelemetry
 - Agents (Claude Code, Codex CLI)
 - Spring Boot, Java, Rust
 
