@@ -1,19 +1,15 @@
 ### 💳️ Haine (hainet50b)
 
-I've been working at a Payment Service Provider (PSP) in Japan as a software engineer for over 10 years. Beyond hands-on engineering, I founded and led an engineering team dedicated to mentoring and growing junior engineers, serving as Engineering Manager for two years.
+I've been working at a Payment Service Provider (PSP) in Japan as a software engineer for over 10 years.
 
-I'm now a solo researcher dedicated full-time to AI-driven development, Context Infrastructure and Agent Observability at the same PSP.
- 
-I write about observability, audit, AI-driven development, and related topics:
-
-- [Blog (programacho.com) (English)](https://programacho.com/blog)
-- [Talks & Interviews (Japanese)](https://pages.programacho.com/hainet50b/past-talks)
+I'm a solo researcher at the PSP, dedicated full-time to AI-driven development, Agent Observability, and platform engineering, especially deployment strategies and telemetry for the AI era.
 
 ### 🌿 Tech stack
 
 - Elasticsearch
+- EKS, Kubernetes, Terraform, AWS
 - Agents (Claude Code, Codex CLI)
-- Spring Boot, Java, Rust
+- Spring Boot, Java (🔟⤴️ Over ten years of experience)
 
 ### 📫 Contact
 
