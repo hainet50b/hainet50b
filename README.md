@@ -9,7 +9,7 @@ I'm a solo researcher at the PSP, dedicated full-time to AI-driven development, 
 - Elasticsearch
 - EKS, Kubernetes, Terraform, AWS
 - Agents (Claude Code, Codex CLI)
-- Spring Boot, Java (🔟⤴️ Over ten years of experience)
+- Spring Boot, Java (🔟 Over ten years of experience)
 
 ### 📫 Contact
 
