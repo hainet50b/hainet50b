@@ -10,8 +10,8 @@ I now work full-time in R&D on:
 ### 🌿 Tech stack
 
 - Elasticsearch
-- EKS, Kubernetes, Terraform, AWS
-- Agents (Claude Code, Codex CLI)
+- EKS, Kubernetes, AWS
+- Coding agent (Claude Code)
 - Spring Boot, Java (🔟 Over ten years of experience)
 
 ### 📫 Contact
